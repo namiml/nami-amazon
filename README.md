@@ -107,12 +107,3 @@ Please find additional resources such asrelease notes, docs, and references from
 
 ### References
 - [Third-Party Software](https://github.com/namiml/nami-android/wiki/Third-Party-Software)
-
-
-
-### Release Notes
-- [Stable](https://github.com/namiml/nami-amazon/wiki/Nami-SDK-Stable-Releases)
-
-### Documentation
-
-- [SDK Reference](https://docs.namiml.com/reference/)
