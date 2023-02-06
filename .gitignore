@@ -14,9 +14,7 @@ tmp
 # Gradle
 .gradle
 
-gradle
-gradlew
-*.bat
+gradle/
 
 jniLibs
 build
