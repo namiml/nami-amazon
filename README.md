@@ -92,6 +92,24 @@ Once the SDK is initialized, you're ready to show a paywall. See the [complete g
 
 ## Other Resources
 
+The Nami Amazon Appstore SDK tracks our primary Nami Android SDK. 
+
+Please find additional resources such asrelease notes, docs, and references from that repository which is linked below:
+
+### Release Notes
+
+- [Stable](https://github.com/namiml/nami-android/wiki/Nami-SDK-Stable-Releases)
+- [Early Access](https://github.com/namiml/nami-android/wiki/Nami-SDK-Early-Access-Releases)
+
+### Documentation
+
+- [SDK Reference](https://docs.namiml.com/reference/)
+
+### References
+- [Third-Party Software](https://github.com/namiml/nami-android/wiki/Third-Party-Software)
+
+
+
 ### Release Notes
 - [Stable](https://github.com/namiml/nami-amazon/wiki/Nami-SDK-Stable-Releases)
 
